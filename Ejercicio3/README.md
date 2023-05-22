@@ -15,4 +15,5 @@ El problema es que este enfoque no funcionará para todos los casos. No solo el 
 <img src="img\4.jpg"><br>
 
 Eso significa que uno debe mantener los límites superior e inferior para cada nodo al atravesar el árbol, y comparar el valor del nodo no con los valores de los hijos sino con estos límites.
-Link de GitHub: https://github.com/Data-Structures-AYDA/Ejercicio3
+Link de GitHub: https://github.com/valencia321/Taller-Estructuras-de-Datos-Avanzadas/tree/main/Ejercicio3
+

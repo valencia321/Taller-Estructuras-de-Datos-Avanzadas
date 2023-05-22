@@ -11,4 +11,5 @@ En cada paso de inserción, queremos insertar en el nodo con el número más baj
 
 Al mantener una deque (cola de dos extremos) de estos nodos en orden numérico, podemos resolver el problema. Después de insertar un nodo, ese nodo ahora tiene el número más alto y no tiene hijos, por lo que va al final de la deque. Para obtener el nodo con el número más bajo, saltamos desde el principio del deque.
 
-Link GitHub: https://github.com/Data-Structures-AYDA/Ejercicio1
+Link GitHub: https://github.com/valencia321/Taller-Estructuras-de-Datos-Avanzadas/tree/main/Ejercicio1
+

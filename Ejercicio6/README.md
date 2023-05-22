@@ -24,4 +24,4 @@ Si encontramos el destino del nodo durante el proceso, significa que existe una 
 <img src="img\4.jpg" style="float: center"><br>
 
 Como se muestra en la figura anterior, el nodo 0 se visita mientras que el nodo 5 no se visita. Por lo tanto, no hay un camino de 0 a 5.<br>
-Link de GitHub: https://github.com/Data-Structures-AYDA/Ejercicio6
+Link de GitHub: https://github.com/valencia321/Taller-Estructuras-de-Datos-Avanzadas/tree/main/Ejercicio6
